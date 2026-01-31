@@ -1,0 +1,2 @@
+GitHub tracks everything – Stores who changed what, Stores when it was changed, Keeps every old version and If something breaks: 
+<br>You roll back to a previous working version in seconds.
