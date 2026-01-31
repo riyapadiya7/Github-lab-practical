@@ -1,0 +1,2 @@
+GitHub is a platform where people store, track, and collaborate on code.
+<br>Because of Github Multiple people work on the same files.
